@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+/* header */
+header {width:1250px; height:220px; margin: 0 auto;}
+
+/* login */
+#login {width: 200px; height:30px; float: right; margin:10px 0 20px 0;}
+#login > ul > li {text-decoration: none; font-size: 12px; color: #666; float :left; margin:10px 3px;}
+#login > ul > li > a {text-decoration: none; font-size: 12px; color: #666; float:left; margin:0 5px;}
+
+
+/* logo */
+#logo {width: 150px; height:80px; float: left; margin: 55px 0 30px 0;}
+#logo > a > img {width: 100%; height: 100%;}
+
+/* logotext */
+#logotext {width: 270px; height:80px; float:left; margin: 70px 0 30px 10px;}
+#logotext > ul > li {text-decoration: none; font-size: 20px; color: #666; float :left; margin:20px 3px;}
+#logotext > ul > li > a {text-decoration: none; font-size: 20px; color: #666; float:left; margin:0 2px;}
+#logotext > ul > li >a:hover {color:#5f0080;}
+
+/* search*/
+#search {width: 250px; height:40px; float:left; margin:50px 30px 40px 50px; border:1px solid #5f0080; border-radius:10px;}
+#search > .iconbox {width: 40px; height: 40px; float: right; margin-top: -35px;}
+#search > .iconbox > a > img {width: 30px; height: 30px; border-color: #5f0080;}
+
+/*search-form*/
+#search > .scont {width: 150px; height: 30px; margin: 10px 0 0 20px; border: none;}
+input[type="search"] {width:150px; font-family:"돋움"; font-size:12px; color:#666; background-color:#fff; border: none;}
+
+/* icon */
+#icon {width:300px; height:50px; float:right; margin:5px 0 10px 0;}
+#icon > .iconbox {width: 30px; height: 30px; float: right; margin:0 30px 10px 0;}
+#icon > .iconbox > a > img {width: 100%; height: 100%; opacity: 0.5; }
+#icon > .iconbox > a > img:hover {cursor: pointer; opacity: 1;}
+
+/* nav */
+nav {width:100%; height:50px; float:left; }
+
+nav > .categori {width:250px; height:50px; float: left; }
+nav > .categori > li { margin: -20px 0 0 -20px; padding: 0 0 10px 0;text-align: left; position: relative; }
+nav > .categori > li > a { font-size: 20px; color:#000; display: block; text-transform: uppercase;}
+nav > .categori > li > a:hover {color: #5f0080;} 
+
+
+nav > .categori > li > .camenu { width: 200px; display: none; margin-left: 10px; position: relative;
+    background-color: #fff; color:#5f0080; }
+nav > .categori > li > .camenu > li > a {padding-left: 10px; margin-top: 5px; line-height: 30px; 
+    text-decoration: none; background-color: #fff; color:#5f0080; display: block;}
+nav > .categori > li > .camenu > li > a:hover {background-color: #dcdcdc; color: #5f0080; display: block; }
+
+
+nav > .categori > li > .camenu > li > .casub { width: 170px; height: 380px; position: absolute; line-height: 40px;
+    background-color: #dcdcdc; color:#5f0080; top:0px; left:200px; z-index: 3; display: none;}
+nav > .categori > li > .camenu > li > .casub > li > a {margin-left: 10px; line-height: 40px; text-decoration: none; background-color: #dcdcdc; color:#5f0080; display: block;}
+nav > .categori > li > .camenu > li > .casub > li > a:hover {color: #fff; display: block;}
+
+
+/* menu */
+nav > ul > li {width:200px; height:50px; float: left;}
+nav > ul > li > a {font-size: 20px; text-decoration: none; color: #000; margin:20px;}
+nav > ul > li > a:hover {color: #5f0080;}
+
+nav > .navbox {width:200px; height: 50px; float:right;}
+nav > .navbox > button {width:170px; height:30px ;float: right; border-radius: 10px; border:1px solid #a7a5a5; font-size: 15px;}
+nav > .navbox > button > span {color: #5f0080;}
+nav > .navbox > button:hover {cursor: pointer;}
+
