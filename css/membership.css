@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+    #membership {width: 600px; height: 1500px; margin:0 auto;}
+    #membership form{margin:0 auto; width:600px;}
+    #membership > h1{text-align:center; border:none; font-family:"맑은 고딕"; font-size:25px; height:60px; padding-top:60px;}
+    #membership > h2{text-align:right; border:none; font-family:"맑은 고딕"; font-size:12px; height:30px; padding-top:10px;
+    color:#666;}
+    #membership > h2 > span {color: red;}
+
+    #membership .mbs1 {width:600px; height:500px; border-spacing:0; border-top:1px solid #d1d1d1; border-bottom: 1px solid #d1d1d1;}
+    #membership .mbs2 {width:600px; height:250px; border-spacing:0; border-bottom: 1px solid #d1d1d1;}
+    #membership th {background-color:#FFF; width:150px; height:50px; text-align: left; vertical-align: middle;}
+    #membership th span {color:  red;}
+    #membership td {background-color:#FFF; font-size: 12px;}
+    #membership td span {font-size: 15px;  margin:0 10px 0 10px; vertical-align: middle;}
+        
+    #membership input {width: 200px; border:1px solid #d1d1d1; padding:15px; margin-top: 15px; border-radius: 5px;}
+    #membership input:hover {background-color:#f7ffff;}
+
+    #membership input[type="radio"] {width: 18px; height: 18px;}
+
+    #membership input[type="submit"] {width: 120px; height: 40px; border:1px solid #5f0080; background-color:#FFF; color:#5f0080;
+        border-radius:5px; padding:5px 0 5px 0; margin-left: 10px;}
+    #membership input[type="submit"]:hover {cursor: pointer;}
+
+    #membership input[type="submitt"] {width: 120px; height: 40px; background-color:#5f0080; color:#FFF;
+        border-radius:5px; padding:5px 0 5px 0; margin-left: 10px; margin-top: 50px; text-align: center; margin-left: 250px;}
+    #membership input[type="submitt"]:hover {cursor: pointer;}
+

@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/* footer */
+footer {width: 100%; height: 300px; margin: 0 auto; margin-top: 350px; border-top:1px solid #666;
+    background-color: #eee;}
+    
+/* footer_center */
+    footer > #center {width:1250px; height:300px; margin: 0 auto;}
+
+/* footer_as */
+    footer > #center > #as {width: 600px; height: 300px; float:left;}
+    footer > #center > #as > h3 {font-size: 25px; margin: 10px 0 5px 0;}
+    footer > #center > #as > h3 > span {font-size: 15px; margin: 10px 0 5px 10px;}
+
+    footer > #center > #as > .fotbtn {width: 600px; height:250px; float: left; margin: 10px 0 0 0;}
+    footer > #center > #as > .fotbtn > button {width:150px; height: 40px; float:left; margin:10px 5px 0 0; border:1px solid #666;}
+    footer > #center > #as > .fotbtn > button:hover{cursor: pointer;}
+    footer > #center > #as > .fotbtn > p {width: 400px; height:50px; float: left; font-size:14px; color: #666;
+        margin:10px 0 0 0;}
+
+/* footer_company */
+    footer > #center > #company {width: 600px; height: 300px; float:right;}
+    footer > #center > #company > .cp {width:600px; height:40px; float: left;}
+    footer > #center > #company > .cp > ul > li > a {text-decoration: none; float:left; color: #000;
+    margin: 10px 20px 5px 0;}
+
+    footer > #center > #company > .cpp {width: 600px; height:250px; float: left;}
+    footer > #center > #company > .cpp > p {color: #666; font-size:14px; margin:10px 0 0 0;}
+    footer > #center > #company > .cpp > p > span > a{color:#5f0080; font-size:14px; margin:10px 0 0 0; text-decoration: none;}

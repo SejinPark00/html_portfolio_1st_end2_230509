@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+/* sub1 */
+#sub1 {width: 1000px; height: auto; margin: 0 auto;}
+#sub1 >  ul {width:100%; height:50px; margin:0 auto;}
+#sub1 >  ul > li {width:238px; height:30px; background-color:#eee; float:left; margin: 0 auto; text-align: center; padding:10px 10px 0 0px;
+    border:1px solid #ddd; border-bottom:1px solid #000; font-size:18px;}
+
+#sub1 >  ul > li > a {height:100%; color:#666; text-decoration: none;}
+#sub1 >  ul > li > span > a {height:100%; color:#5f0080; text-decoration: none;}
+#sub1 > ul > li:first-child {background-color:#fff; border:1px solid #000; border-bottom:none;}
+
+
+/* sub1_report */
+#sub1 > #report > #reportimg {width: 100%; height: 700px; margin: 20px 0 0 0;}
+#sub1 > #report > #reportimg > img {width: 100%; height: 700px; margin: 30px 0 0 0 ;}
+
+/* sub1_report_text */
+#sub1 > #report > .reporttxext {width: 100%; height:100px; padding-bottom: 70px; border-bottom: 1px solid #ddd; text-align: center; margin:80px 0 0 0;}
+#sub1 > #report > .reporttxext > h3 {font-size: 23px; color: #666;}
+#sub1 > #report > .reporttxext > h1 {font-size: 30px; margin:30px 0 0 0; line-height: 35px;}
+
+/* sub1_report_textbox */
+#sub1 > #report > .reporttextbox {width: 100%; height:200px; text-align: center; margin:40px 0 0 0;}
+#sub1 > #report > .reporttextbox > p {font-size: 15px; color:#666; text-align: left; line-height:30px;}
+
+/* sub1_report_point */
+#sub1 > #report > .reportpoint {width: 100%; height:520px; margin: 0 auto;}
+#sub1 > #report > .reportpoint > h3 {text-align: center; font-size: 50px;}
+#sub1 > #report > .reportpoint > img {width: 100%; margin-top: 50px;}
+
+/* sub1_report_pick */
+#sub1 > #report > .reportpick {width: 100%; height:1650px; margin: 0 auto;}
+#sub1 > #report > .reportpick > h3 {text-align: center; font-size: 50px; margin-top:30px ;}
+#sub1 > #report > .reportpick > img {width: 100%; margin-top: 30px;}
+#sub1 > #report > .reportpick > p {width: 100%; height: 200px; padding:30px 0 0 0 ; font-size: 16px; line-height: 32px; color: #666;}
+#sub1 > #report > .reportpick > p > span {font-size: 25px; line-height: 30px; color: black;}
+
+/* sub1_report_brand */
+#sub1 > #report > .reportbrand {width: 100%; height:900px; margin: 0 auto;}
+#sub1 > #report > .reportbrand > h3 {text-align: center; font-size: 50px; margin-top:30px ;}
+#sub1 > #report > .reportbrand > img {width: 100%; margin-top: 40px;}
+#sub1 > #report > .reportbrand > p {width: 100%; height: 200px; margin:30px 0 0 0; font-size: 15px; line-height: 32px; color: #666;}

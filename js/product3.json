@@ -1,0 +1,57 @@
+[{
+    "title" : "[이연복의 목란] 멘보샤",
+    "price" : "12,500원",
+    "percent" : "15%",
+    "sale_price" : "10,625원",
+    "url" : "../img/prod3_1.jpeg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[모현상회] 간장 생연어장 200g(냉장)",
+    "price" : "10,490원",
+    "percent" : "0%",
+    "sale_price" : "10,490원",
+    "url" : "../img/prod3_2.jpeg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[Kurly's] 동물복지 백색 유정란 20구",
+    "price" : "10,200원",
+    "percent" : "15%",
+    "sale_price" : "8,670원",
+    "url" : "../img/prod3_3.jpeg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[이즈니] 포션 버터 무염",
+    "price" : "12,580원",
+    "percent" : "0%",
+    "sale_price" : "12,580원",
+    "url" : "../img/prod3_4.jpg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[닌자]프로페셔널 초퍼NJ1001KR",
+    "price" : "69,000원",
+    "percent" : "5%",
+    "sale_price" : "65,000원",
+    "url" : "../img/prod4_1.jpg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[글라스코] 블륨 화병 4종 (택1)",
+    "price" : "9,800원",
+    "percent" : "10%",
+    "sale_price" : "8,820원~",
+    "url" : "../img/prod4_2.jpg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[수면공감] 라텍스 기능성 우유베개 3종(택1)(이지핏)",
+    "price" : "124,000원",
+    "percent" : "48%",
+    "sale_price" : "64,000원",
+    "url" : "../img/prod4_3.jpg",
+    "icon" : "../img/cht_icon.png"
+},{
+    "title" : "[발뮤다] 더 팟 2종(택1)K07B",
+    "price" : "189,000원",
+    "percent" : "5%",
+    "sale_price" : "199,000원",
+    "url" : "../img/prod4_4.jpg",
+    "icon" : "../img/cht_icon.png"
+}]

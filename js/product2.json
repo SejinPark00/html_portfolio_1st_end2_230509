@@ -1,0 +1,49 @@
+[{
+    "title" : "[경복궁] 꽃갈비살 구이 300g",
+    "price" : "15,900원",
+    "percent" : "20%",
+    "sale_price" : "12,720원",
+    "url" : "../img/prod2_1.jpg"
+},{
+    "title" : "[멘야하나비] 마제소바 2인분",
+    "price" : "5,900원",
+    "percent" : "10%",
+    "sale_price" : "15,900원",
+    "url" : "../img/prod2_2.jpg"
+},{
+    "title" : "[스틸라] 컴플리트 하모니 립앤치크스틱 2종",
+    "price" : "41,000원",
+    "percent" : "40%",
+    "sale_price" : "24,600원",
+    "url" : "../img/prod2_3.jpg"
+},{
+    "title" : "[홍대낙지] 낙지 볶음 300g (냉동)",
+    "price" : "8,900원",
+    "percent" : "20%",
+    "sale_price" : "7,300원",
+    "url" : "../img/prod2_4.jpg"
+},{
+    "title" : "[햇반/쿸반] 볶음밥 10종 (택1)",
+    "price" : "11,900원",
+    "percent" : "25%",
+    "sale_price" : "8,980원",
+    "url" : "../img/prod2_5.jpg"
+},{
+    "title" : "[종로 평원숯불갈비] 돼지 물갈비 515g",
+    "price" : "12,200원",
+    "percent" : "22%",
+    "sale_price" : "22,516원",
+    "url" : "../img/prod2_6.jpg"
+},{
+    "title" : "[도스타코스] 퀘사이다 4종",
+    "price" : "9,500원",
+    "percent" : "15%",
+    "sale_price" : "8,075원~",
+    "url" : "../img/prod2_7.jpg"
+},{
+    "title" : "[하코야] 모듬 꼬치 530g",
+    "price" : "14,900원",
+    "percent" : "15%",
+    "sale_price" : "12,733원",
+    "url" : "../img/prod2_8.jpeg"
+}]

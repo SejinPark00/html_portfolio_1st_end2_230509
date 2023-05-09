@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+    #loginform > h1{text-align:center; border:none; font-family:"맑은 고딕"; font-size:20px; height:60px; padding-top:60px;}
+
+    #loginform {width: 550px; height: 500px; margin: 0 auto;}
+    #loginform input {width: 250px; height: 10px; border:1px solid #d1d1d1; padding:15px; border-radius: 5px; margin-top: 10px; margin-left: 150px;}
+    #loginform input:hover {background-color:#f7ffff;}
+
+    #loginform > .relogin {width: 180px; height: 20px; margin-top: 10px; margin-left:250px;}
+    #loginform > .relogin ul li {color: #666; margin:10px 5px 0 5px; font-size: 12px; text-decoration: none; float: left;}
+    #loginform > .relogin ul li a {color: #666; font-size: 12px; text-decoration: none; float: left;}
+        
+    #loginform input[type="submit"] {width: 280px; height: 40px; border:1px solid #5f0080; background-color:#5f0080; color:#FFF;
+        border-radius:5px; padding:10px 0 10px 0; margin-top: 20px; margin-left: 150px;}
+    #loginform input[type="submit"]:hover {cursor: pointer;}
+
+    #loginform input[type="submitt"] {width: 280px; height: 30px; border:1px solid #5f0080; background-color:#FFF; color:#5f0080;
+        border-radius:5px; padding:5px 0 5px 0; margin-top: 20px; margin-left: 150px; text-align: center;}
+    #loginform input[type="submitt"]:hover {cursor: pointer;}

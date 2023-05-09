@@ -1,0 +1,96 @@
+@charset "utf-8";
+
+/* sub2 */
+#sub2 {width: 1000px; height: 1500px; margin: 0 auto;}
+#sub2 >  ul {width:100%; height:50px; margin:0 auto;}
+#sub2 >  ul > li {width:238px; height:30px; background-color:#eee; float:left; margin: 0 auto; text-align: center; padding:10px 10px 0 0px;
+    border:1px solid #ddd; border-bottom:1px solid #000; font-size:18px;}
+#sub2 > ul > li:nth-child(2) {background-color:#fff; border:1px solid #000; border-bottom:none;}
+
+#sub2 >  ul > li > a {height:100%; color:#666; text-decoration: none;}
+#sub2 >  ul > li > span > a {height:100%; color:#5f0080; text-decoration: none;}
+
+#sub2 > #data > h3 {text-align: center; font-size: 25px; margin-top: 50px;}
+
+/*sub2_data_seller */
+#sub2 > #data > .seller  {width: 100%; height: 30px; border-bottom:1px solid #e9e9e9; margin:0 auto; margin-top:15px;}
+#sub2 > #data > .seller  td {font-size: 18px; padding: 5px 5px 0 5px;}
+#sub2 > #data > .seller  td:first-child {width:100px; background-color: #ddd; color: #1f1e1e;}
+
+/* sub2_data_articlebox */
+#sub2 > #data > #databox  {width: 100%; height: 550px; margin: 50px 0 0 0;}
+
+#sub2 > #data > #databox > .art1 {width: 250px; height: 250px; float:left; text-align: center;}
+#sub2 > #data > #databox > .art1 > .art1img {width: 50px; height: 50px; margin:0 auto;}
+#sub2 > #data > #databox > .art1 > .art1img > img {width: 100%; height: 100%;}
+#sub2 > #data > #databox > .art1 > h1 {width: 100%; height: 50px; font-size: 20px; color: #5f0080; margin: 10px 0 0 0;}
+#sub2 > #data > #databox > .art1 > p {width: 100%; height:100px; font-size: 12px; line-height: 25px;}
+#sub2 > #data > #databox > .art1 > span {width: 100%; height:50px; color:#666; font-size: 12px; line-height: 25px;}
+
+#sub2 > #data > #databox > .art2 {width: 250px; height: 250px; float:left;  text-align: center;}
+#sub2 > #data > #databox > .art2 > .art2img {width: 50px; height: 50px; margin:0 auto;}
+#sub2 > #data > #databox > .art2 > .art2img > img {width: 100%; height: 100%;}
+#sub2 > #data > #databox > .art2 > h1 {width: 100%; height: 50px; font-size: 20px; color: #5f0080; margin: 10px 0 0 0;}
+#sub2 > #data > #databox > .art2 > p {width: 100%; height:100px; font-size: 12px; line-height: 25px;}
+#sub2 > #data > #databox > .art2 > span {width: 100%; height:50px; color:#666; font-size: 12px; line-height: 25px;}
+
+#sub2 > #data > #databox > .art3 {width: 270px; height: 250px; float:left; text-align: center;}
+#sub2 > #data > #databox > .art3 > .art3img {width: 50px; height: 50px; margin:0 auto;}
+#sub2 > #data > #databox > .art3 > .art3img > img {width: 100%; height: 100%;}
+#sub2 > #data > #databox > .art3 > h1 {width: 100%; height: 50px; font-size: 20px; color: #5f0080; margin: 10px 0 0 0;}
+#sub2 > #data > #databox > .art3 > p {width: 100%; height:100px; font-size: 12px; line-height: 25px;}
+#sub2 > #data > #databox > .art3 > span {width: 100%; height:50px; color:#666; font-size: 12px; line-height: 25px;}
+
+#sub2 > #data > #databox > .art4 {width: 300px; height: 250px; float:left; text-align: center;}
+#sub2 > #data > #databox > .art4 > .art4img {width: 50px; height: 50px; margin:0 auto;}
+#sub2 > #data > #databox > .art4 > .art4img > img {width: 100%; height: 100%;}
+#sub2 > #data > #databox > .art4 > h1 {width: 100%; height: 50px; font-size: 20px; color: #5f0080; margin: 10px 0 0 0;}
+#sub2 > #data > #databox > .art4 > p {width: 100%; height:100px; font-size: 12px; line-height: 25px;}
+#sub2 > #data > #databox > .art4 > span {width: 100%; height:50px; color:#666; font-size: 12px; line-height: 25px;}
+
+#sub2 > #data > #databox > .art5 {width: 300px; height: 250px; float:left; text-align: center;}
+#sub2 > #data > #databox > .art5 > .art5img {width: 50px; height: 50px; margin:0 auto;}
+#sub2 > #data > #databox > .art5 > .art5img > img {width: 100%; height: 100%;}
+#sub2 > #data > #databox > .art5 > h1 {width: 100%; height: 50px; font-size: 18px; color: #5f0080; margin: 10px 0 0 0;}
+#sub2 > #data > #databox > .art5 > p {width: 100%; height:100px; font-size: 12px; line-height: 25px;}
+#sub2 > #data > #databox > .art5 > span {width: 100%; height:50px; color:#666; font-size: 12px; line-height: 25px;}
+
+#databox > div:first-of-type {margin: 0 0 0 100px;}
+#databox > div:nth-of-type(2) {margin: 0 0 0 30px;}
+#databox > div:nth-of-type(3) {margin: 0 0 0 30px;}
+#databox > div:nth-of-type(4) {margin: 20px 0 0 200px;}
+#databox > div:last-of-type {margin: 20px 0 0 80px;}
+
+/* sub2_data_as */
+#sub2 > #data > h1 {font-size: 25px; color: #666; border-top:1px solid #e9e9e9; text-align: left; margin: 0 auto; padding: 20px 0 0 0;}
+#sub2 > #data > h2 {font-size: 17px; color: #666; text-align: left; margin: 30px 0 0 0;}
+#sub2 > #data > p {font-size: 15px; color: #666; text-align: left; margin: 8px 0;}
+
+#sub2 > #data > #asbox {width: 100%; height: 200px; margin-top:40px;}
+#sub2 > #data > #asbox > .as1 {width: 300px; height: 200px; float: left; margin:0 30px 0 0;}
+#sub2 > #data > #asbox > .as1 > h3 {font-size: 22px; color: #5f0080;}
+#sub2 > #data > #asbox > .as1 > p {font-size: 18px; margin-top: 20px;}
+
+#sub2 > #data > #asbox > .as2 {width: 300px; height: 200px; float: left; margin:0 30px 0 0;}
+#sub2 > #data > #asbox > .as2 > h3 {font-size: 22px; color: #5f0080;}
+#sub2 > #data > #asbox > .as2 > p {font-size: 18px; margin-top: 20px;}
+#sub2 > #data > #asbox > .as2 > h4 {font-size: 15px; color: #666; margin-top: 15px;}
+
+#sub2 > #data > #asbox > .as3 {width: 300px; height: 200px; float: left; margin:0 30px 0 0;}
+#sub2 > #data > #asbox > .as3 > h3 {font-size: 22px; color: #5f0080;}
+#sub2 > #data > #asbox > .as3 > p {font-size: 18px; margin-top: 20px;}
+#sub2 > #data > #asbox > .as3 > h4 {font-size: 15px; color: #666; margin-top: 15px;}
+
+/* sub2_data_tras */
+#sub2 > #data > #tras {width: 100%; height: 250px; float: left; margin: 0 auto;}
+#sub2 > #data > #tras .ts1 {width: 100%; height: 50px; float: left; border-top: 1px solid #e9e9e9;}
+#sub2 > #data > #tras .ts1 td {padding:15px; color: #000;}
+#sub2 > #data > #tras .ts1 td:first-child {width:150px; color: #5f0080; font-size: 18px;}
+
+#sub2 > #data > #tras .ts2 {width: 100%; height: 80px; float: left; border-top: 1px solid #e9e9e9;}
+#sub2 > #data > #tras .ts2 td {padding:10px; color: #666; line-height: 30px;}
+#sub2 > #data > #tras .ts2 td:first-child {width:150px; color: #5f0080; font-size: 18px;}
+
+#sub2 > #data > #tras .ts3 {width: 100%; height: 50px; float: left; border-top: 1px solid #e9e9e9; border-bottom: 1px solid #e9e9e9;}
+#sub2 > #data > #tras .ts3 td {padding:15px; color: #000;}
+#sub2 > #data > #tras .ts3 td:first-child {width:150px; color: #5f0080; font-size: 18px;}
